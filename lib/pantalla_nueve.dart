@@ -15,7 +15,7 @@ class _PantallaNueveState extends State<PantallaNueve> {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'Pantalla 3 Balderrama',
+          'Pantalla 9 Balderrama',
           style: TextStyle(color: Colors.white, fontSize: 25),
         ),
         backgroundColor: Colors.blueGrey,
